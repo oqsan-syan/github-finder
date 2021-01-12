@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github-finder/static/css/main.c52750dc.chunk.css",
+    "main.js": "/github-finder/static/js/main.ef19f1a6.chunk.js",
+    "main.js.map": "/github-finder/static/js/main.ef19f1a6.chunk.js.map",
+    "runtime-main.js": "/github-finder/static/js/runtime-main.d5fc66e4.js",
+    "runtime-main.js.map": "/github-finder/static/js/runtime-main.d5fc66e4.js.map",
+    "static/js/2.331567e6.chunk.js": "/github-finder/static/js/2.331567e6.chunk.js",
+    "static/js/2.331567e6.chunk.js.map": "/github-finder/static/js/2.331567e6.chunk.js.map",
+    "static/js/3.b11dce48.chunk.js": "/github-finder/static/js/3.b11dce48.chunk.js",
+    "static/js/3.b11dce48.chunk.js.map": "/github-finder/static/js/3.b11dce48.chunk.js.map",
+    "index.html": "/github-finder/index.html",
+    "static/css/main.c52750dc.chunk.css.map": "/github-finder/static/css/main.c52750dc.chunk.css.map",
+    "static/js/2.331567e6.chunk.js.LICENSE.txt": "/github-finder/static/js/2.331567e6.chunk.js.LICENSE.txt",
+    "static/media/logo.496dc9bf.png": "/github-finder/static/media/logo.496dc9bf.png",
+    "static/media/spinner.29ba4794.gif": "/github-finder/static/media/spinner.29ba4794.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5fc66e4.js",
+    "static/js/2.331567e6.chunk.js",
+    "static/css/main.c52750dc.chunk.css",
+    "static/js/main.ef19f1a6.chunk.js"
+  ]
+}
