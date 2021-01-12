@@ -1,0 +1,81 @@
+.profile {
+  /* max-width: 600px; */
+  margin-top: 78px;
+  margin-left: 30px;
+  display: flex;
+  text-align: left;
+  align-items: center;
+}
+
+.profile-col-l {
+  margin-right: 98px;
+}
+
+.profile__avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 17px;
+}
+
+.profile__login {
+  font-size: 22px;
+  line-height: 26px;
+  color: #7B7676;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.profile__ghprofile button{
+  width: 201px;
+  height: 50px;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #000;
+  background: #E3E3E3;
+  border-radius: 10px;
+  border: none;
+}
+
+.profile-top {
+  padding-bottom: 20px;
+}
+
+.profile__name {
+  font-size: 30px;
+  line-height: 35px;
+  color: #000000;
+}
+
+.profile__bio {
+  font-size: 16px;
+  line-height: 19px;
+  color: #939393;
+}
+
+.profile__descr-item {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  line-height: 21px;
+  color: #939393;
+  padding-bottom: 10px;
+}
+
+.profile__descr-item img {
+  margin-right: 9px;
+}
+
+.profile-bottom {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 46px;
+  font-size: 15px;
+  line-height: 18px;
+  color: #939393;
+}
+
+.profile-bottom span {
+  padding-right: 15px;
+}

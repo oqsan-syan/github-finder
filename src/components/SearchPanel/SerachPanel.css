@@ -1,0 +1,39 @@
+.searchPanel {
+  width: 830px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  border: 1px solid #BDB3B3;
+  border-radius: 10px;
+  margin-top: 36px;
+}
+
+.serachPanel__input {
+  padding: 20px 10px 20px 30px;
+  width: 100%;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #B1A5A5;
+}
+
+.serachPanel__icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  border: none;
+  padding-right: 10px;
+  cursor: pointer;
+}
+
+.serachPanel__icon img {
+  transform: matrix(0.94, -0.31, 0.34, 0.95, 0, 0);
+}
