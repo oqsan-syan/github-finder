@@ -1,2 +1,2 @@
-# github-finder
+# github-finder 
 React github user finder app
